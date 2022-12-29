@@ -1,4 +1,3 @@
-
-Hybride e-tourism mobile application.
+React Native e-tourism mobile application.
 
 
